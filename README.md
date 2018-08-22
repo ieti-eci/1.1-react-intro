@@ -81,6 +81,6 @@ render() {
 
 # Part 3: Interacting with React Components
 
-1. Go back the Codeacademy website and do the the last module (Components Interacting) of Learn ReactJS: Part I
+1. Go back the Codeacademy website and do the the last module (Components Interacting) of the Learn ReactJS: Part I
 course.
 
