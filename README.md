@@ -14,7 +14,7 @@ Introduction to ReactJS.
 
 3. Open the App.js file and change App-title to TODO React App (verify if the changes are reflected inmediately on your browser after you save without re-running your server).
 
-4. Go to Codeacademy, register and do the first modules of the following course the get a basic understanding of React: https://www.codecademy.com/learn/react-101
+4. Go to Codeacademy, register and do the first two modules (JSX and React Components) of the following course: https://www.codecademy.com/learn/react-101
 
 # Part 2: Create React Components for the TODO App
 
@@ -80,4 +80,7 @@ render() {
 
 
 # Part 3: Interacting with React Components
+
+1. Go back the Codeacademy website and do the the last module (Components Interacting) of Learn ReactJS: Part I
+course.
 
