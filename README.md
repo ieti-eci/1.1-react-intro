@@ -1,4 +1,4 @@
-# React JS Intro
+# 1.1 React JS Intro
 Introduction to ReactJS.
 
 # Part 1: Create a basic React Application and understand React basics
