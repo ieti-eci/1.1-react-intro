@@ -1,18 +1,21 @@
+[![npm](https://img.shields.io/badge/npm-v6.13.4-red.svg)](https://www.npmjs.com/)
+[![npx](https://img.shields.io/badge/dependencies-npx-orange)](https://www.npmjs.com/package/npx)
+
 # 1.1 React JS Intro
 Introduction to ReactJS.
 
-# Part 1: Create a basic React Application and understand React basics
+# Part 1: Create a basic React application and understand React basics
 
-1. Create a react App and test that it works:
+1. Create a React App and test that it works:
 
 ```javascript
   npx create-react-app todo-app
-  cd my-app
+  cd todo-app
   npm start
 ```
-2. Open the index.html file and replace the title tag from React App to TODO App.
+2. Open the `index.html` file and replace the title tag from React App to TODO App.
 
-3. Open the App.js file and change App-title to TODO React App (verify if the changes are reflected inmediately on your browser after you save without re-running your server).
+3. Open the `src/App.js` file and change the content of the paragraph tag (&lt;p&gt;) to _TODO React App_ (verify that the changes are reflected inmediately on your browser after you save without re-running your server).
 
 4. Go to Codeacademy, register and do the first two modules (JSX and React Components) of the following course: https://www.codecademy.com/learn/react-101
 
